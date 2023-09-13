@@ -1,6 +1,6 @@
 # Workouts Map
 
-Mark locations of your running/cycling workouts on the map.
+Mark locations of your running/cycling workouts on the map!
 
 
 Project from Udemy JavaScript course.
